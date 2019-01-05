@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">mysqlexmaple</string>
+    <string name="loginLbl">Login to your account</string>
+    <string name="usernameHint">Enter Username</string>
+    <string name="passwordHint">Enter Password</string>
+    <string name="loginHint">Login</string>
+    <string name="signupHint">Signup</string>
+    <string name="signupTitle">SIgnup</string>
+    <string name="enterNameHint">John Doe</string>
+    <string name="emailHint">johndoe@example.com</string>
+    <string name="confirmPasswordHint">Confirm Password</string>
+</resources>
