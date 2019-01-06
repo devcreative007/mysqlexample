@@ -2,6 +2,9 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.mass.creative.mysqlexmaple">
 
+    <!-- Internet Permissions -->
+    <uses-permission android:name="android.permission.INTERNET" />
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -16,7 +19,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".user_signup"></activity>
+        <activity android:name=".user_signup" />
+        <activity android:name=".home_screen"></activity>
     </application>
 
 </manifest>

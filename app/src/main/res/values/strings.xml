@@ -9,4 +9,8 @@
     <string name="enterNameHint">John Doe</string>
     <string name="emailHint">johndoe@example.com</string>
     <string name="confirmPasswordHint">Confirm Password</string>
+    <string name="welcomeTitle">Welcome</string>
+    <string name="searchText">Search Database:</string>
+    <string name="searchHint">Enter a name...</string>
+    <string name="goBtn">Go!</string>
 </resources>
